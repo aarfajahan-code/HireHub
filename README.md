@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HireHub — Modern Job & Internship Portal 🚀
 
 A modern, SaaS-grade Job and Internship Portal built with **React.js**, **Tailwind CSS**, and **Context API**. Designed to connect ambitious students and new graduates with top product startups and global tech enterprises.
@@ -104,3 +105,6 @@ npm run preview
 To quickly test the app without typing:
 - Click **"Log in with Demo Student Account"** on the `/login` page or inside `/dashboard`.
 - **Pre-configured Candidate**: Arjun Verma (IIT Delhi, Class of 2025) with 3 active applications in review.
+=======
+# Pulse-Analytics-Project
+>>>>>>> e1e25b9b2ff9ed1f0081f7dd98e622cfa223988c
